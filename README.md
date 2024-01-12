@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Subham-Satapathy
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking for open source development and internships.
+- 👀 I’m a Software Engineer.
+- 🌱 I’m currently working in AWS, Nodejs, JavaScript, MySql, CireCi, Serverless..
 - 📫 LinkedIn - https://www.linkedin.com/in/subham-satapathy
 
 <!---
