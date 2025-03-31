@@ -4,7 +4,7 @@ Hello! I’m a software developer with over 3.5 years of experience in industry.
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/0xsubham0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xsubham0x" height="30" width="40" /></a>
+<a href="https://twitter.com/subhsxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xsubham0x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subham-satapathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-satapathy" height="30" width="40" /></a>
 </p>
 
