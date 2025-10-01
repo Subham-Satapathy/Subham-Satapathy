@@ -1,5 +1,5 @@
 # About Me:
-Hello! I’m a software developer with over 3.5 years of experience in industry. I’m committed to continuous learning, always exploring new technologies to keep my skillset current with the latest industry trends.<br><br>As a collaborative team player, I thrive in environments where I can work closely with colleagues to deliver high-quality projects on time. I’m excited to keep growing in the software development field and look forward to taking on new challenges.
+Hello! I’m a software developer with over 3.6 years of experience in industry. I’m committed to continuous learning, always exploring new technologies to keep my skillset current with the latest industry trends.<br><br>As a collaborative team player, I thrive in environments where I can work closely with colleagues to deliver high-quality projects on time. I’m excited to keep growing in the software development field and look forward to taking on new challenges.
 
 
 ## 🌐 Socials:
